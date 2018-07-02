@@ -21,5 +21,7 @@
   * 小水泵 * 1
   * 水管10cm
   * 小水箱 * 1
-  * [温度、湿度传感器代码](https://github.com/VeniZhang/high-temperature-alert-by-raspberry）
+  * 温度、湿度传感器代码： https://github.com/VeniZhang/high-temperature-alert-by-raspberry
+
+  
 ### Warning：代码已测试，未组装飞行。
